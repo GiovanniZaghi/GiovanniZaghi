@@ -16,17 +16,6 @@ Desenvolvedor sênior com mais de 6 anos criando aplicativos móveis de alta per
  
 Atuo do front-end ao back-end, com foco em Flutter e na construção de aplicativos de alta performance. Tenho histórico em decisões arquiteturais, implementação de observabilidade, code reviews, programação em par e mentoria de desenvolvedores.
  
-## Formação
- 
-- **CST em Tecnologia da Informação** · Impacta Tecnologia (2024 - 2025)
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** · Universidade de Mogi das Cruzes (2018 - 2019)
-## Certificações
- 
-- Java: criando a sua primeira aplicação
-- Flutter: gerenciamento de estados com Provider
-- Tech Lead: construindo práticas e rotinas de gestão
-- Tech Lead: gerindo pessoas e guiando para alta performance
-- Profissão Tech Lead: conhecendo a liderança técnica
 ## Stack
 
 <div align="center">
