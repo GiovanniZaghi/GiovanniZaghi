@@ -16,49 +16,6 @@ Desenvolvedor sênior com mais de 6 anos criando aplicativos móveis de alta per
  
 Atuo do front-end ao back-end, com foco em Flutter e na construção de aplicativos de alta performance. Tenho histórico em decisões arquiteturais, implementação de observabilidade, code reviews, programação em par e mentoria de desenvolvedores.
  
-## Experiência
- 
-**Software Developer** · Serasa Experian (via Solutis Tecnologias)
-*Ago 2025 - Jun 2026*
- 
-- Desenvolvimento e evolução de uma aplicação Flutter de grande escala em monorepo, no setor financeiro
-- Participação em decisões arquiteturais e construção de funcionalidades críticas com foco em performance
-- Implementação de observabilidade e monitoramento
-- Code reviews e suporte técnico ao time
-**Desenvolvedor Full Stack** · Prosystem Informática
-*Set 2024 - Jul 2025*
- 
-- Soluções mobile e web, atuando do front-end ao back-end
-**Senior Software Engineer** · INDT - Instituto de Desenvolvimento Tecnológico
-*Out 2023 - Ago 2024*
- 
-- Desenvolvimento e aprimoramento de apps Flutter com foco em arquitetura e manutenção de código
-- Manutenção de aplicações web
-- Reuniões diárias com clientes, code reviews e programação em par
-- Configuração de apps para publicação nas lojas Android e iOS
-**Software Developer (Freelance e liderança de equipe)** · Matriz IT
-*Jan 2023 - Set 2023*
- 
-- Captação de clientes e desenvolvimento de projetos front-end e back-end
-- Liderança técnica de dois desenvolvedores estagiários
-**Mobile Developer (Sênior)** · CTC
-*Dez 2021 - Jun 2023*
- 
-- Desenvolvimento de três aplicativos móveis (dois em Flutter e um em React Native)
-- Manutenção de backend e criação de um sistema web com Clean Architecture
-**Software Developer** · Cactvs (instituição financeira)
-*Mar 2021 - Nov 2021*
- 
-- Desenvolvimento de apps Flutter com MVVM e Scrum
-- Funcionalidades de backend e manutenção do website da empresa
-**Mobile Developer** · Novandi Tecnologia
-*Jul 2019 - Mar 2021*
- 
-- Desenvolvimento mobile com Flutter, website e aplicativo do produto
-**Full-stack Developer** · Agency evve
-*Abr 2019 - Jun 2019*
- 
-- Websites para a agência e clientes, do layout à codificação
 ## Formação
  
 - **CST em Tecnologia da Informação** · Impacta Tecnologia (2024 - 2025)
