@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 # Giovanni Zaghi de Freitas
  
 ### Software Engineer Sênior | Mobile & Full Stack
